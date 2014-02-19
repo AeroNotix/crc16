@@ -1,6 +1,6 @@
 # crc16
 
-Creates CRC16's of byte[]'s.
+Creates CRC16s of byte[]s.
 
 ## License
 
