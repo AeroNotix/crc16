@@ -1,5 +1,7 @@
 # crc16
 
+Creates CRC16's of byte[]'s.
+
 ## License
 
 Copyright © 2014 FIXME
